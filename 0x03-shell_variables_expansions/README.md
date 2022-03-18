@@ -1,0 +1,1 @@
+This task is about variable expansions in shell.
